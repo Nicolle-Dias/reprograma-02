@@ -1,3 +1,3 @@
 # Reprograma - Semana 02
 
-Teste de commit da aula 02. ^_^
+Teste de commit de diretório da aula 02. ^_^
